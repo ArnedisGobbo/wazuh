@@ -1,0 +1,8 @@
+# Common IDE folders
+.idea
+.vscode
+
+# MacOS
+.DS_Store
+
+.ssh
